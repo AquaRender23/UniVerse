@@ -91,20 +91,4 @@ flashcards.json
 
 Your data will remain saved even after closing the application.
 
----
 
-## 🛠️ Future Improvements
-
-- Save To-Do List data permanently
-- Pomodoro sound notifications
-- Flashcard categories
-- Dark mode
-- Progress tracking
-
----
-
-## 👨‍💻 Author
-
-Developed using **Python and wxPython** as a productivity and learning project.
-
-🌟 UniVerse — one app, many study tools.
